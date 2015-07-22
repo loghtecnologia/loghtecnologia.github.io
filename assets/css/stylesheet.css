@@ -18,7 +18,7 @@ a {
   a:hover {
     text-decoration: underline; }
 
-#logo{
+.logo{
   text-align: center;
   padding-top: 30px;
 }
