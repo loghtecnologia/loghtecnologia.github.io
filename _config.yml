@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Logh
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -20,6 +20,11 @@ social:
     url: https://facebook.com.br/loghtecnologia
   - title: github
     url: https://github.com/loghtecnologia
+  - title: linkedin
+    url: #
+  - title: google-plus
+    url: #
+    
 
 # Build settings
 markdown: kramdown
