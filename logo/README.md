@@ -1,2 +1,0 @@
-# loghtecnologia.github.io
-Site
